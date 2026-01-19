@@ -20,5 +20,4 @@ Hello welcome to my GitHub! My name is Nour and I am a lifelong learner and aspi
 # ‎
 
 <!--![Nour's GitHub stats](https://github-readme-stats.vercel.app/api?username=nourelshabasy&theme=github_dark&show_icons=true)-->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nourelshabasy&theme=github_dark&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nourelshabasy&theme=github_dark&layout=compact)-->
